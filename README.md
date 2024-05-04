@@ -36,5 +36,8 @@ e colocanco o ip desejado.
 
 Batar alterar esta linha, no exemplo ip
 
+
+![EXEMPLO](exemplo.png)
+
  app.run(host='192.168.x.xxx')  
 
