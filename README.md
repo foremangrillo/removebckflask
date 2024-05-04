@@ -12,8 +12,9 @@ Requerimentos
  python -m venv removeback
 
 
-# ativar depende do sistema operaciona
-#No linux linux
+# ativar depende do sistema operacional, no windows pesquise
+#No linux tem que ter instalado o venv, caso esteja crie 
+o diretorio do projeto, entre.
  cd removeback
  source bin\active
 
