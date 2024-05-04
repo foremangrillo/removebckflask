@@ -28,9 +28,12 @@ pip install rembg
 python3 exemplo.py
 
 ## Configuracao voce mudar como é acessado o projeto, ou seja
-mudar o ip, no padrao acima no localhost na porta :5000.
+
+Mudar o ip, no padrao acima no localhost na porta :5000.
 Voce pode alterar modificando a ultima linha do projeto
 e colocanco o ip desejado.
+
 Batar alterar esta linha, no exemplo ip
+
  app.run(host='192.168.x.xxx')  
 
