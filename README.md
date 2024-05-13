@@ -6,22 +6,31 @@ Requerimentos
 
 *Pillow librar
 
-* rembg modulo usado para remover background de imagens
+*rembg modulo usado para remover background de imagens
+
 
 ##Interessante trabalhar com venv
+
+
  python -m venv removeback
 
 
 # ativar depende do sistema operacional, no windows pesquise
+
 #No linux tem que ter instalado o venv, caso esteja crie 
 o diretorio do projeto, entre.
+
  cd removeback
+ 
  source bin\active
 
 
-Instalar o requerimentos
+# Instalar o requerimentos
+
 pip install flask
+
 pip install Pillow
+
 pip install rembg
 
 # inicializar projeto
